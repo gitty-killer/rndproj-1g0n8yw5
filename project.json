@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-1g0n8yw5"",
-  ""goal"": ""report generator for audit trails"",
-  ""language"": ""node"",
-  ""template"": ""node-api""
+    "name":  "rndproj-1g0n8yw5",
+    "goal":  "report generator for audit trails",
+    "language":  "node",
+    "template":  "node-api"
 }
