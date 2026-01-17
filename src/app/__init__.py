@@ -97,3 +97,5 @@ __all__.append('renderer')
 from . import renderer
 __all__.append('templating')
 from . import templating
+__all__.append('routing')
+from . import routing
