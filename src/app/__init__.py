@@ -95,3 +95,5 @@ __all__.append('layout')
 from . import layout
 __all__.append('renderer')
 from . import renderer
+__all__.append('templating')
+from . import templating
