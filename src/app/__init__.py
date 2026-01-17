@@ -59,3 +59,5 @@ __all__.append('scheduler')
 from . import scheduler
 __all__.append('planner')
 from . import planner
+__all__.append('optimizer')
+from . import optimizer
