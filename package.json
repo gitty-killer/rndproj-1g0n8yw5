@@ -1,0 +1,10 @@
+{
+  "name": "rndproj-1g0n8yw5",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node tests/routes.test.js"
+  }
+}
