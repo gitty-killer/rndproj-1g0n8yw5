@@ -65,3 +65,5 @@ __all__.append('serializer')
 from . import serializer
 __all__.append('loader')
 from . import loader
+__all__.append('indexer')
+from . import indexer
