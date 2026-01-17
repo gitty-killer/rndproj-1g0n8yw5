@@ -53,3 +53,5 @@ from . import filters
 from . import reducers
 from . import enrich
 
+__all__.append('cache')
+from . import cache
