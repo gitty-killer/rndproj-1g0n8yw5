@@ -1,2 +1,0 @@
-STAGE2 = True
-
