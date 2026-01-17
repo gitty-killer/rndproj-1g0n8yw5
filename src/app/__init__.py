@@ -57,3 +57,5 @@ __all__.append('cache')
 from . import cache
 __all__.append('scheduler')
 from . import scheduler
+__all__.append('planner')
+from . import planner
