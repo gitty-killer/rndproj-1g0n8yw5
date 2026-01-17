@@ -83,3 +83,5 @@ __all__.append('policy')
 from . import policy
 __all__.append('profiling')
 from . import profiling
+__all__.append('hooks')
+from . import hooks
