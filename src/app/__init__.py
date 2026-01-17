@@ -85,3 +85,5 @@ __all__.append('profiling')
 from . import profiling
 __all__.append('hooks')
 from . import hooks
+__all__.append('events')
+from . import events
