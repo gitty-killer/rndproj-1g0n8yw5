@@ -71,3 +71,5 @@ __all__.append('matcher')
 from . import matcher
 __all__.append('scorer')
 from . import scorer
+__all__.append('normalizer')
+from . import normalizer
