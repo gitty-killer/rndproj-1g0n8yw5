@@ -105,3 +105,5 @@ __all__.append('tasks')
 from . import tasks
 __all__.append('signals')
 from . import signals
+__all__.append('ops')
+from . import ops
