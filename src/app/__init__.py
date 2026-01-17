@@ -103,3 +103,5 @@ __all__.append('state')
 from . import state
 __all__.append('tasks')
 from . import tasks
+__all__.append('signals')
+from . import signals
