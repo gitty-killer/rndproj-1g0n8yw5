@@ -55,3 +55,5 @@ from . import enrich
 
 __all__.append('cache')
 from . import cache
+__all__.append('scheduler')
+from . import scheduler
