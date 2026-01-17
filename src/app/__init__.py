@@ -77,3 +77,5 @@ __all__.append('aggregator')
 from . import aggregator
 __all__.append('dispatcher')
 from . import dispatcher
+__all__.append('resolver')
+from . import resolver
