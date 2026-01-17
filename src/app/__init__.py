@@ -69,3 +69,5 @@ __all__.append('indexer')
 from . import indexer
 __all__.append('matcher')
 from . import matcher
+__all__.append('scorer')
+from . import scorer
