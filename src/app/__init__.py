@@ -81,3 +81,5 @@ __all__.append('resolver')
 from . import resolver
 __all__.append('policy')
 from . import policy
+__all__.append('profiling')
+from . import profiling
