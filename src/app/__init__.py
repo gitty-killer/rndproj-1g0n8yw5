@@ -73,3 +73,5 @@ __all__.append('scorer')
 from . import scorer
 __all__.append('normalizer')
 from . import normalizer
+__all__.append('aggregator')
+from . import aggregator
