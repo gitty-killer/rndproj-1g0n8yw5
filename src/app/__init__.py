@@ -63,3 +63,5 @@ __all__.append('optimizer')
 from . import optimizer
 __all__.append('serializer')
 from . import serializer
+__all__.append('loader')
+from . import loader
