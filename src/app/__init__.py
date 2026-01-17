@@ -67,3 +67,5 @@ __all__.append('loader')
 from . import loader
 __all__.append('indexer')
 from . import indexer
+__all__.append('matcher')
+from . import matcher
