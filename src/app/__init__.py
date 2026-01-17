@@ -75,3 +75,5 @@ __all__.append('normalizer')
 from . import normalizer
 __all__.append('aggregator')
 from . import aggregator
+__all__.append('dispatcher')
+from . import dispatcher
