@@ -111,3 +111,5 @@ __all__.append('health')
 from . import health
 __all__.append('limits')
 from . import limits
+__all__.append('throttle')
+from . import throttle
